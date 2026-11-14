@@ -1,0 +1,17 @@
+{
+  "name": "FramePilot AI - Your Personal AI Director",
+  "short_name": "FramePilot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101318",
+  "theme_color": "#101318",
+  "description": "Real-time AI video director and intelligent recording assistant for creators.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
